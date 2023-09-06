@@ -1,0 +1,10 @@
+Forminator
+
+multi step
+
+Label
+Placeholder
+
+15% = 0.15
+
+Payment = Stripe/Paypal
