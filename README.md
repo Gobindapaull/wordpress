@@ -1,2 +1,2 @@
 # wordpress
-All concepts, plugins and fundamentals about WordPress
+All concepts, plugins and fundamentals of WordPress
